@@ -1,0 +1,7 @@
+{
+  "appId": "com.fretwork.app",
+  "appName": "Fretwork",
+  "webDir": "www",
+  "backgroundColor": "#14100e",
+  "android": { "allowMixedContent": false }
+}
